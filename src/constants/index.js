@@ -137,20 +137,20 @@ export const roadmap = [
 export const contacts = [
   {
     id: 1,
-    href: "mailto:aakanshanand123@gmail.com",
+    href: "mailto:aptechgca@gmail.com",
     alt: "email button",
     text: "Email us"
   },
   {
     id: 2,
-    href: "tel:+918000694502",
+    href: "tel:+919214089242",
     alt: "Phone",
     text: "Give a Call",
     white: "white"
   },
   {
     id: 3,
-    href: "https://wa.me/+918000694502",
+    href: "https://wa.me/+919214089242",
     alt: "Whatsapp",
     text: "Whatsapp"
   }
